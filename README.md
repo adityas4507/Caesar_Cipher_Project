@@ -20,9 +20,9 @@ This is a beginner-friendly Python program that implements the **Caesar Cipher**
 ## 🧠 How the Caesar Cipher Works
 
 The Caesar Cipher shifts each letter in the message by a certain number of positions in the alphabet. For example, with a shift of `3`:
-a → d
-b → e
-z → c
+- a → d
+- b → e
+- z → c
 
 Decryption is simply shifting the other way.
 
@@ -36,33 +36,33 @@ Decryption is simply shifting the other way.
 
 ---
 
-##💡 Example-1:
+## 💡Example-1:
 
-Type 'encode' to encrypt, type 'decode' to decrypt:
-encode
-Type your message:
-hello
-Type the shift number:
-5
-Here is the encoded result: mjqqt
+1. Type 'encode' to encrypt, type 'decode' to decrypt:
+2. encode
+3. Type your message:
+4. hello
+5. Type the shift number:
+6. 5
+7. Here is the encoded result: mjqqt
 
-##💡 Example-2:
+## 💡 Example-2:
 
-Type 'encode' to encrypt, type 'decode' to decrypt:
-decode
-Type your message:
-mjqqt
-Type the shift number:
-5
-Here is the decoded result: hello
+1. Type 'encode' to encrypt, type 'decode' to decrypt:
+2. decode
+3. Type your message:
+4. mjqqt
+5. Type the shift number:
+6. 5
+7. Here is the decoded result: hello
 
 ---
 
 ## 🛠 Code Highlights
 
--> shift_amount %= len(alphabet) ensures wrapping beyond z
--> Preserves spaces and punctuation
--> Loop allows user to encode/decode multiple times
+- shift_amount %= len(alphabet) ensures wrapping beyond z. 
+- Preserves spaces and punctuation. 
+- Loop allows user to encode/decode multiple times. 
 
 ---
 
