@@ -38,23 +38,11 @@ Decryption is simply shifting the other way.
 
 ## 💡Example-1:
 
-1. Type 'encode' to encrypt, type 'decode' to decrypt:
-2. encode
-3. Type your message:
-4. hello
-5. Type the shift number:
-6. 5
-7. Here is the encoded result: mjqqt
+![image](https://github.com/user-attachments/assets/41a799b1-220d-4581-887e-61474648a5e6)
 
 ## 💡 Example-2:
 
-1. Type 'encode' to encrypt, type 'decode' to decrypt:
-2. decode
-3. Type your message:
-4. mjqqt
-5. Type the shift number:
-6. 5
-7. Here is the decoded result: hello
+![image](https://github.com/user-attachments/assets/f75b9937-96ed-4e48-adb6-1bb20416612b)
 
 ---
 
