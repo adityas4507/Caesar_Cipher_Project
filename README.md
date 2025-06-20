@@ -36,11 +36,11 @@ Decryption is simply shifting the other way.
 
 ---
 
-## 💡Example-1:
+## 💡Example for encode:
 
 ![image](https://github.com/user-attachments/assets/41a799b1-220d-4581-887e-61474648a5e6)
 
-## 💡 Example-2:
+## 💡Example for decode:
 
 ![image](https://github.com/user-attachments/assets/f75b9937-96ed-4e48-adb6-1bb20416612b)
 
